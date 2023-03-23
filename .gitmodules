@@ -3,3 +3,63 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "ClamR"]
+	path = ClamR
+	url = https://github.com/cran/ClamR
+	shallow = true
+	registered = true
+[submodule "GEOmap"]
+	path = GEOmap
+	url = https://github.com/cran/GEOmap
+	shallow = true
+	registered = true
+[submodule "geomapdata"]
+	path = geomapdata
+	url = https://github.com/cran/geomapdata
+	shallow = true
+	registered = true
+[submodule "geophys"]
+	path = geophys
+	url = https://github.com/cran/geophys
+	shallow = true
+	registered = true
+[submodule "PEIP"]
+	path = PEIP
+	url = https://github.com/cran/PEIP
+	shallow = true
+	registered = true
+[submodule "ProfessR"]
+	path = ProfessR
+	url = https://github.com/cran/ProfessR
+	shallow = true
+	registered = true
+[submodule "RFOC"]
+	path = RFOC
+	url = https://github.com/cran/RFOC
+	shallow = true
+	registered = true
+[submodule "RPMG"]
+	path = RPMG
+	url = https://github.com/cran/RPMG
+	shallow = true
+	registered = true
+[submodule "Rquake"]
+	path = Rquake
+	url = https://github.com/cran/Rquake
+	shallow = true
+	registered = true
+[submodule "RSEIS"]
+	path = RSEIS
+	url = https://github.com/cran/RSEIS
+	shallow = true
+	registered = true
+[submodule "RTOMO"]
+	path = RTOMO
+	url = https://github.com/cran/RTOMO
+	shallow = true
+	registered = true
+[submodule "zoeppritz"]
+	path = zoeppritz
+	url = https://github.com/cran/zoeppritz
+	shallow = true
+	registered = true
