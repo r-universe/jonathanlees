@@ -23,18 +23,9 @@
 [submodule "RSEIS"]
 	path = RSEIS
 	url = https://github.com/cran/RSEIS
-[submodule "RTOMO"]
-	path = RTOMO
-	url = https://github.com/cran/RTOMO
-[submodule "Rquake"]
-	path = Rquake
-	url = https://github.com/cran/Rquake
 [submodule "geomapdata"]
 	path = geomapdata
 	url = https://github.com/cran/geomapdata
-[submodule "geophys"]
-	path = geophys
-	url = https://github.com/cran/geophys
 [submodule "zoeppritz"]
 	path = zoeppritz
 	url = https://github.com/cran/zoeppritz
