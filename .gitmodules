@@ -23,6 +23,9 @@
 [submodule "RSEIS"]
 	path = RSEIS
 	url = https://github.com/cran/RSEIS
+[submodule "Rquake"]
+	path = Rquake
+	url = https://github.com/cran/Rquake
 [submodule "geomapdata"]
 	path = geomapdata
 	url = https://github.com/cran/geomapdata
