@@ -26,6 +26,9 @@
 [submodule "Rquake"]
 	path = Rquake
 	url = https://github.com/cran/Rquake
+[submodule "geigen"]
+	path = geigen
+	url = https://github.com/cran/geigen
 [submodule "geomapdata"]
 	path = geomapdata
 	url = https://github.com/cran/geomapdata
